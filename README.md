@@ -32,12 +32,22 @@ Overview
 Built an interactive dashboard to make age-group and year comparisons easier to interpret.
 
 📈 Dashboard
-
-Add Power BI dashboard screenshot here.
+<img width="1781" height="850" alt="image" src="https://github.com/user-attachments/assets/9f689000-ecbf-49f3-90da-25c3807395db" />
 
 🔍 Data Preparation
+Pivot-tables
+<img width="1840" height="770" alt="image" src="https://github.com/user-attachments/assets/10fdfd19-d4d5-4a1e-8f9e-3b8f0a38fde4" />
 
-Add cleaned-data and pivot-table screenshots here.
+Cleaned Datasets
+Volunteer Statistics Canada 2018
+<img width="1837" height="772" alt="image" src="https://github.com/user-attachments/assets/ef5342b8-96c9-4f5b-bb31-098a9adb57b9" />
+
+Volunteer Statistics Canada 2023
+<img width="1757" height="766" alt="image" src="https://github.com/user-attachments/assets/dd7d1c8a-47ba-4f10-85b5-2d8c0b8efbd2" />
+
+Cleaned_Data:Statistics Canada Census Ontario 2021
+<img width="1846" height="767" alt="image" src="https://github.com/user-attachments/assets/a27cb632-faec-43d3-b011-850f2d8c8118" />
+
 
 🔑 Key Insights
 * In both 2018 and 2023, people aged 25–34 completed more volunteer hours annually than those aged 15–24.
