@@ -92,11 +92,11 @@ Possible actions include:
 
 
 # ⚠️ Limitations
-Volunteer data for ages 12–14 was not available for 2018 or 2023.
-Census age groups did not always match the volunteering-data age groups, making direct comparisons difficult.
-Census data was from 2021, while volunteering data was from 2018 and 2023.
-The available public data may not fully reflect volunteering patterns in 2026.
-Census data grouped ages 10–14, so the population specifically aged 12–14 could not be isolated.
+* Volunteer data for ages 12–14 was not available for 2018 or 2023.
+* Census age groups did not always match the volunteering-data age groups, making direct comparisons difficult.
+* Census data was from 2021, while volunteering data was from 2018 and 2023.
+* The available public data may not fully reflect volunteering patterns in 2026.
+* Census data grouped ages 10–14, so the population specifically aged 12–14 could not be isolated.
 
 ___
 
