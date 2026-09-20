@@ -100,4 +100,4 @@ Possible actions include:
 
 ___
 
-## This project demonstrates how public data can be cleaned, compared, visualized, and translated into practical recommendations for youth volunteer recruitment and retention.
+## This project demonstrates how public data can be cleaned, compared, visualized and translated into practical recommendations for youth volunteer recruitment and retention.
