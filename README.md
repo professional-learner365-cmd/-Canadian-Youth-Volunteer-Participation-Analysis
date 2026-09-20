@@ -5,15 +5,15 @@ This project examines youth volunteer participation, volunteer rates, and annual
 # 📊 Canadian Youth Volunteer Participation Analysis
 Overview
 * This project examines youth volunteer participation, volunteer rates, and annual volunteer hours in Canada using public data from Statistics Canada.
-* I cleaned and organized the data in Google Sheets and created an interactive Power BI dashboard to compare age groups, identify changes between 2018 and 2023, and explore implications for youth volunteer recruitment.
+* I cleaned and organized the data in Google Sheets and created an interactive Power BI dashboard to compare age groups, identify changes between 2018 and 2023 and explore implications for youth volunteer recruitment.
 
 # 🧠 Skills Demonstrated
 Google Sheets • Data Cleaning • Pivot Tables • Power BI • Data Visualization • Comparative Analysis • Data Interpretation • Dashboard Design • Insight Generation • Decision Support
 
 
 # 📂 Data Sources
-Statistics Canada: Table 45-10-0039-01 — Volunteer rate and annual volunteer hours
-Statistics Canada: 2021 Census of Population
+* Statistics Canada: Table 45-10-0039-01 — Volunteer rate and annual volunteer hours (2018 & 2023)
+* Statistics Canada: 2021 Census of Population
 
 
 # 🔗 Tools
